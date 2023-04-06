@@ -1,0 +1,69 @@
+col_nomes = ["id", "Time"]
+  
+lista = [[1, "Time A"], 
+        [2, "Time B"], 
+        [3, "Time C"], 
+        [4, "Time N"]]
+
+print("{:<4} {:<8}".format('id', 'Time'))
+
+for v in lista:
+    id, time = v
+    print ("{:<4} {:<8}".format(id, time))
+    
+id_time = input('\n\nDigite qual time gostaria de editar: ')
+
+novo_nome = str(input('\nDigite o novo nome: '))
+
+lista.index('Time A')
+------------------------------------------
+
+col_names = ["id", "Time"]
+  
+list = [[1, "Time A"], 
+        [2, "Time B"], 
+        [3, "Time C"], 
+        [4, "Time N"]]
+
+for v in list:
+    id, time = v
+    print ("{:<4} {:<8}".format(id, time))
+    
+    
+if id_time == 1
+    col_names = ["id", "Time"]
+  
+    list = [[1, {novo_nome}], 
+            [2, "Time B"], 
+            [3, "Time C"], 
+            [4, "Time N"]]
+
+    print("{:<4} {:<8}".format('id', 'Time'))
+
+    for v in list:
+    id, time = v
+    print ("{:<4} {:<8}".format(id, time))
+
+if nome_time == 2
+    pass
+
+if nome_time == 3
+    pass
+
+if nome_time == 4
+    pass
+    --------------------------------------------------
+    
+    col_nomes = ["id", "Time"]
+  
+lista = [[1, "Time A"], 
+        [2, "Time B"], 
+        [3, "Time C"], 
+        [4, "Time N"]]
+
+print("{:<4} {:<8}".format('id', 'Time'))
+
+for v in lista:
+    id, time = v
+    print ("{:<4} {:<8}".format(id, time))
+    

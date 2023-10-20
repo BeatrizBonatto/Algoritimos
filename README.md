@@ -1,4 +1,4 @@
-# teste1
+# Algorítimos
 
 Repositório dedicado aos exercícios realizados durante as aulas de Algorítimos.
 
